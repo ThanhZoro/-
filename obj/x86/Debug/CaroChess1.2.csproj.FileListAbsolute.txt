@@ -1,0 +1,30 @@
+C:\Users\NonDt\AppData\Local\Temporary Projects\CaroChess1.2\bin\Debug\CaroChess1.2.exe
+C:\Users\NonDt\AppData\Local\Temporary Projects\CaroChess1.2\bin\Debug\CaroChess1.2.pdb
+C:\Users\NonDt\AppData\Local\Temporary Projects\CaroChess1.2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\NonDt\AppData\Local\Temporary Projects\CaroChess1.2\obj\x86\Debug\CaroChess1._2.Form1.resources
+C:\Users\NonDt\AppData\Local\Temporary Projects\CaroChess1.2\obj\x86\Debug\CaroChess1._2.Properties.Resources.resources
+C:\Users\NonDt\AppData\Local\Temporary Projects\CaroChess1.2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\NonDt\AppData\Local\Temporary Projects\CaroChess1.2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\NonDt\AppData\Local\Temporary Projects\CaroChess1.2\obj\x86\Debug\CaroChess1.2.exe
+C:\Users\NonDt\AppData\Local\Temporary Projects\CaroChess1.2\obj\x86\Debug\CaroChess1.2.pdb
+D:\Hoc tap\C#\CaroChess1.2\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1.2.exe
+D:\Hoc tap\C#\CaroChess1.2\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1.2.pdb
+D:\Hoc tap\C#\CaroChess1.2\CaroChess1.2\CaroChess1.2\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Hoc tap\C#\CaroChess1.2\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1._2.Form1.resources
+D:\Hoc tap\C#\CaroChess1.2\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1._2.Properties.Resources.resources
+D:\Hoc tap\C#\CaroChess1.2\CaroChess1.2\CaroChess1.2\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Hoc tap\C#\CaroChess1.2\CaroChess1.2\CaroChess1.2\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Hoc tap\C#\CaroChess1.2\CaroChess1.2\CaroChess1.2\bin\Debug\CaroChess1.2.exe
+D:\Hoc tap\C#\CaroChess1.2\CaroChess1.2\CaroChess1.2\bin\Debug\CaroChess1.2.pdb
+D:\Hoc tap\C#\CaroChess1.2\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1._2.Form2.resources
+D:\Hoc tap\C#\CaroChess1.2\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1._2.Form3.resources
+M:\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1.2.exe
+M:\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1.2.pdb
+M:\CaroChess1.2\CaroChess1.2\bin\Debug\CaroChess1.2.exe
+M:\CaroChess1.2\CaroChess1.2\bin\Debug\CaroChess1.2.pdb
+M:\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1.2.csprojResolveAssemblyReference.cache
+M:\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1._2.Form1.resources
+M:\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1._2.Form2.resources
+M:\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1._2.Form3.resources
+M:\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1._2.Properties.Resources.resources
+M:\CaroChess1.2\CaroChess1.2\obj\x86\Debug\CaroChess1.2.csproj.GenerateResource.Cache
